@@ -2,7 +2,7 @@
 # Smart-Saline-Monitoring-System
 IOT based system consist of hardware plus software mainly to keep track on saline level and also for other tasks of doctors and nurses in hospitals.
 
-
+### [Website link for more details about this project](https://amey5111.github.io/Saline-Monitoring-Project-Website/)
 
 ## Screenshots
 ### Overview of entire system
